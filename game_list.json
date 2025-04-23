@@ -1,158 +1,54 @@
 [
-  {
-    "wording_list": "Excusas de trabajo"
-  },
-  {
-    "wording_list": "Superhéroes"
-  },
-  {
-    "wording_list": "Animales"
-  },
-  {
-    "wording_list": "Lista de Compras"
-  },
-  {
-    "wording_list": "Marcas de Carros"
-  },
-  {
-    "wording_list": "Un insulto"
-  },
-  {
-    "wording_list": "Frutas o Verduras"
-  },
-  {
-    "wording_list": "Nombre de Famosos"
-  },
-  {
-    "wording_list": "Profesiones"
-  },
-  {
-    "wording_list": "Gustos Raros"
-  },
-  {
-    "wording_list": "Lugares"
-  },
-  {
-    "wording_list": "Arruinar 1era cita"
-  },
-  {
-    "wording_list": "Apodos"
-  },
-  {
-    "wording_list": "Acciones (Verbos)"
-  },
-  {
-    "wording_list": "Canciones"
-  },
-  {
-    "wording_list": "Películas"
-  },
-  {
-    "wording_list": "Un crimen absurdo"
-  },
-  {
-    "wording_list": "En otro Idioma"
-  },
-  {
-    "wording_list": "Equipos Fútbol"
-  },
-  {
-    "wording_list": "Apellidos"
-  },
-  {
-    "wording_list": "Poderes inútiles"
-  },
-  {
-    "wording_list": "Videojuegos"
-  },
-  {
-    "wording_list": "Títulos de libros"
-  },
-  {
-    "wording_list": "Colores"
-  },
-  {
-    "wording_list": "Sustantivos"
-  },
-  {
-    "wording_list": "Insectos"
-  },
-  {
-    "wording_list": "Partes del cuerpo"
-  },
-  {
-    "wording_list": "Cosas de la Escuela"
-  },
-  {
-    "wording_list": "Herramientas"
-  },
-  {
-    "wording_list": "Instrum. Musicales"
-  },
-  {
-    "wording_list": "Cosas de la casa"
-  },
-  {
-    "wording_list": "Accesorios"
-  },
-  {
-    "wording_list": "Tipos de transporte"
-  },
-  {
-    "wording_list": "Cosas del espacio"
-  },
-  {
-    "wording_list": "Villanos"
-  },
-  {
-    "wording_list": "En un Hospital"
-  },
-  {
-    "wording_list": "En una oficina"
-  },
-  {
-    "wording_list": "En un aeropuerto"
-  },
-  {
-    "wording_list": "En una fiesta"
-  },
-  {
-    "wording_list": "Tipos de bebidas"
-  },
-  {
-    "wording_list": "Sabores de helado"
-  },
-  {
-    "wording_list": "Marcas"
-  },
-  {
-    "wording_list": "Cosas Redondas"
-  },
-  {
-    "wording_list": "Te hace feliz..."
-  },
-  {
-    "wording_list": "Elementos químicos"
-  },
-  {
-    "wording_list": "Tecnología"
-  },
-  {
-    "wording_list": "Tipos de monedas"
-  },
-  {
-    "wording_list": "Cosas que se rompen"
-  },
-  {
-    "wording_list": "Hecho con las manos"
-  },
-  {
-    "wording_list": "Cosas con ruedas"
-  },
-  {
-    "wording_list": "Cosas que brillan"
-  },
-  {
-    "wording_list": "Palabras compuestas"
-  }
+  "Excusas de trabajo",
+	"Superhéroes",
+	"Animales",
+	"Lista de Compras",
+	"Marcas de Carros",
+	"Un insulto",
+	"Frutas o Verduras",
+	"Nombre de Famosos",
+	"Profesiones",
+	"Gustos Raros",
+	"Lugares",
+	"Arruinar 1era cita",
+	"Apodos",
+	"Acciones (Verbos)",
+	"Canciones",
+	"Películas",
+	"Un crimen absurdo",
+	"En otro Idioma",
+	"Equipos Fútbol",
+	"Apellidos",
+	"Poderes inútiles",
+	"Videojuegos",
+	"Títulos de libros",
+	"Colores",
+	"Sustantivos",
+	"Insectos",
+	"Partes del cuerpo",
+	"Cosas de la Escuela",
+	"Herramientas",
+	"Instrum. Musicales",
+	"Cosas de la casa",
+	"Accesorios",
+	"Tipos de transporte",
+	"Cosas del espacio",
+	"Villanos",
+	"En un Hospital",
+	"En una oficina",
+	"En un aeropuerto",
+	"En una fiesta",
+	"Tipos de bebidas",
+	"Sabores de helado",
+	"Marcas",
+	"Cosas Redondas",
+	"Te hace feliz...",
+	"Elementos químicos",
+	"Tecnología",
+	"Tipos de monedas",
+	"Cosas que se rompen",
+	"Hecho con las manos",
+	"Cosas con ruedas",
+	"Cosas que brillan",
+	"Palabras compuestas"
 ]
